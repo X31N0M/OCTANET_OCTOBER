@@ -30,9 +30,5 @@ For Task-2, we implemented a basic to-do list application. The to-do list allows
 To view the landing page with the navigation bar, open the `index.html` file in a web browser.
 To use the to-do list application, open the `index.html` file in a web browser.
 
-## Contributors
-- Rajesh Prasad
-- rajeshprasad859747@gmail.com
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
